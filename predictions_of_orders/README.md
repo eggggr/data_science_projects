@@ -7,4 +7,4 @@
 
 # Навыки и инструменты
 
-Python, Pandas, Scikit-learn, statsmodels
+Python, Pandas, Scikit-learn, Statsmodels
