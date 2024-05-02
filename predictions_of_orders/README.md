@@ -5,4 +5,4 @@
 
 # Навыки и инструменты
 
-Python, Pandas, Scikit-learn, Statsmodels
+Python, Pandas, Scikit-learn, Statsmodels, Matplotlib, Phik
